@@ -1,2 +1,2 @@
-a.beap.gemini.yahoo.com
-adclick.g.doubleclick.com
+0.0.0.0 a.beap.gemini.yahoo.com
+0.0.0.0 adclick.g.doubleclick.com
